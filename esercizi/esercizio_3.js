@@ -4,7 +4,7 @@
  * il valore false
  */
 
-const vetrina = ['pomodori', 'insalata', _, 'mele', 'pere'];
+const vetrina = ['pomodori', 'insalata', 'asparagi', 'mele', 'pere'];
 let missing = true;
 for (let i = 0; i < vetrina.length; i++) {
     if (vetrina[i] === 'asparagi') {

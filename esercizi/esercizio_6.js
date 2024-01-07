@@ -5,4 +5,4 @@
  */
 
 const numeri = [1, 2, 3, 4, 5];
-console.log('Esercizio 6:', numeri.slice(_));
+console.log('Esercizio 6:', numeri.slice(0, 3));

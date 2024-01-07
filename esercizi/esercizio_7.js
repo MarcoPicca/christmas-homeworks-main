@@ -5,5 +5,5 @@
  */
 
 const numeri = [1, 2];
-numeri._;
+numeri.push(3);
 console.log('Esercizio 7:', numeri);

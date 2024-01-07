@@ -4,7 +4,7 @@
  */
 
 let finale = '';
-for (let i = 0; i < _; i++) {
+for (let i = 0; i < 3; i++) {
     finale += 'o';
 }
-console.log('Esercizio 1:', 'Geronim' + finale);
+console.log('Esercizio 1:', 'Geronim' + finale + '!');

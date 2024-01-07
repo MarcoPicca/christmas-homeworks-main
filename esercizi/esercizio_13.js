@@ -5,5 +5,5 @@
  * finisca per contenere una griglia 20x20 di <div> celle, ciascuno con dentro uno <span>
  */
 
-const element = document.querySelector(_);
-_
+const element = document.querySelector('#contenitore');
+

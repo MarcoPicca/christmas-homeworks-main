@@ -9,4 +9,4 @@ for (let i = 0; i < 2; i++) {
     risultato += i;
     risultato *= i;
 }
-console.log('Esercizio 5:', risultato === _);
+console.log('Esercizio 5:', risultato === 1);

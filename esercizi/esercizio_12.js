@@ -8,10 +8,13 @@
 const array1 = [1, 2];
 const array2 = [3, 4];
 const array3 = [];
-for (let i = _; i < _; _) {
-    _
+
+for (let i = 0; i < array1.length; i++) {
+    array3.push(array1[i]);
 }
-for (let j = _; j < _; _) {
-    _
+
+for (let j = 0; j < array2.length; j++) {
+    array3.push(array2[j]);
 }
+
 console.log('Esercizio 11:', array3);

@@ -7,4 +7,10 @@
  */
 
 let counter = 0;
-_;
+const addEndInterval = setInterval(() => {
+    counter++;
+    console.log(counter);
+    if (counter >= 10) {
+        clearInterval(addEndInterval);
+    }
+}, 2000);

@@ -5,5 +5,5 @@
  */
 
 let text = "10";
-_
+text = parseInt(text);
 console.log('Esercizio 11:', text);

@@ -7,4 +7,4 @@
 function enigma(a, b) {
     return a / b;
 }
-console.log('Esercizio 9:', enigma(_, _) === 2);
+console.log('Esercizio 9:', enigma(274, 137) === 2);

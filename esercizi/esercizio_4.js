@@ -11,7 +11,7 @@ const numeri = [
     34
 ];
 let i = 0;
-while (numeri[i] < _) {
+while (numeri[i] < 2) {
     i++;
 }
 console.log('Esercizio 4:', i);
